@@ -17,9 +17,9 @@ $ cd PulseSonos
 $ npm install -g
 ```
 
-On linux machines, there are dependencies for `libavahi-compat-libdnssd-dev libasound2-dev` packages. On distributions with `apt`...
+On linux machines, there are dependencies for `libavahi-compat-libdnssd-dev libasound2-dev libpulse-dev` packages. On distributions with `apt`...
 ```
-$ sudo apt-get install libavahi-compat-libdnssd-dev libasound2-dev
+$ sudo apt-get install libavahi-compat-libdnssd-dev libasound2-dev libpulse-dev
 ```
 
 Example usage
