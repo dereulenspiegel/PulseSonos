@@ -1,0 +1,35 @@
+{
+  "name": "pulsesonos",
+  "version": "0.0.1",
+  "author": "Till Klocke",
+  "description": "Pulseaudio to Sonos devices",
+  "contributors": [
+    {
+      "name": "Stephen Wan",
+      "email": "stephen@stephenwan.net"
+    }, {
+      "name": "Till Klocke"
+    }
+  ],
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "bin": "./index.js",
+  "global": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen/airsonos.git"
+  },
+  "dependencies": {
+    "sonos": "0.6.1",
+    "lame": "*",
+    "pulseaudio": "*",
+    "nicercast": "0.0.6",
+    "ip": "*",
+    "throttle": "~1.0.3",
+    "portastic": "0.0.1",
+    "flags": "~0.1.2",
+    "lodash": "~2.4.1"
+  },
+  "license": "MIT"
+}
