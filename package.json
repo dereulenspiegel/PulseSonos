@@ -1,13 +1,14 @@
 {
   "name": "pulsesonos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Till Klocke",
   "description": "Pulseaudio to Sonos devices",
   "contributors": [
     {
       "name": "Stephen Wan",
       "email": "stephen@stephenwan.net"
-    }, {
+    },
+    {
       "name": "Till Klocke"
     }
   ],
