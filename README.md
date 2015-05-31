@@ -24,7 +24,27 @@ $ sudo apt-get install libavahi-compat-libdnssd-dev libasound2-dev libpulse-dev 
 
 Example usage
 -------------
-TODO
+
+1. start pulsesonos
+```bash
+
+...PulseSonos$ node index.js
+PulseAudio Context state: connecting
+PulseAudio Context state: authorizing
+PulseAudio Context state: setting_name
+PulseAudio Context state: ready
+Creating playback stream
+PlaybackStream state: creating
+PlaybackStream state: ready
+PlaybackStream connected
+Creating Icecast server
+Stream is reachable via http://10.0.0.101:9000/listen.m3u
+Starting Sonos service
+```
+
+2. In sonos, add a radio station with the above similar address: `http://10.0.0.101:9000/listen.m3u`
+
+3. play that radio station
 
 Development
 -----------
