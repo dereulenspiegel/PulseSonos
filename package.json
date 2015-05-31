@@ -1,6 +1,6 @@
 {
   "name": "pulsesonos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Till Klocke",
   "description": "Pulseaudio to Sonos devices",
   "contributors": [
