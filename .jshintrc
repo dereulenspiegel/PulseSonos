@@ -1,0 +1,14 @@
+{
+  "browser": false,
+  "esnext": true,
+  "globals": {
+
+  },
+  "globalstrict": true,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "node" : true,
+  "es5" : true,
+  "curly": true
+}
