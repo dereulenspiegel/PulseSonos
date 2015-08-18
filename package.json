@@ -24,14 +24,13 @@
     "sonos": "0.6.1",
     "lame": "*",
     "pulseaudio": "*",
-    "nicercast": "0.0.6",
+    "nicercast": "0.0.8",
     "ip": "*",
     "throttle": "~1.0.3",
     "portastic": "0.0.1",
     "flags": "~0.1.2",
     "lodash": "~2.4.1",
-    "upnp-device": "0.1.3",
-    "soap": "0.5.0",
+    "Sonos-Node-API":"dereulenspiegel/Sonos-Node-API",
     "querystring": "0.2.0"
   },
   "license": "MIT"
