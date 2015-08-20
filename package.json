@@ -7,7 +7,8 @@
     {
       "name": "Stephen Wan",
       "email": "stephen@stephenwan.net"
-    }, {
+    },
+    {
       "name": "Till Klocke"
     }
   ],
@@ -21,17 +22,18 @@
     "url": "https://github.com/dereulenspiegel/PulseSonos.git"
   },
   "dependencies": {
-    "sonos": "0.6.1",
-    "lame": "*",
-    "pulseaudio": "*",
-    "nicercast": "0.0.8",
-    "ip": "*",
-    "throttle": "~1.0.3",
-    "portastic": "0.0.1",
+    "Sonos-Node-API": "dereulenspiegel/Sonos-Node-API",
+    "dbus-native": "^0.2.0",
     "flags": "~0.1.2",
+    "ip": "*",
+    "lame": "*",
     "lodash": "~2.4.1",
-    "Sonos-Node-API":"dereulenspiegel/Sonos-Node-API",
-    "querystring": "0.2.0"
+    "nicercast": "0.0.8",
+    "portastic": "0.0.1",
+    "pulseaudio": "*",
+    "querystring": "0.2.0",
+    "sonos": "0.6.1",
+    "throttle": "~1.0.3"
   },
   "license": "MIT"
 }
