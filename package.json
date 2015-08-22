@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "Sonos-Node-API": "dereulenspiegel/Sonos-Node-API",
-    "dbus-native": "^0.2.0",
+    "dbus-native": "~0.2.0",
     "flags": "~0.1.2",
     "ip": "*",
     "lame": "*",
